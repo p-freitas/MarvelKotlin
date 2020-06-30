@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="personagens_fragment_title">Marvel</string>
+    <string name="quadrinhos_fragment_title">Marvel</string>
+</resources>
